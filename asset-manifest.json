@@ -1,28 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.b38698b1.chunk.css",
-    "main.js": "/static/js/main.527b5bb7.chunk.js",
-    "main.js.map": "/static/js/main.527b5bb7.chunk.js.map",
+    "main.css": "/static/css/main.95ac2a1f.chunk.css",
+    "main.js": "/static/js/main.0ece42be.chunk.js",
+    "main.js.map": "/static/js/main.0ece42be.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e7209854.js",
     "runtime-main.js.map": "/static/js/runtime-main.e7209854.js.map",
-    "static/css/2.11829350.chunk.css": "/static/css/2.11829350.chunk.css",
-    "static/js/2.4975ef90.chunk.js": "/static/js/2.4975ef90.chunk.js",
-    "static/js/2.4975ef90.chunk.js.map": "/static/js/2.4975ef90.chunk.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b88435e1.chunk.js": "/static/js/2.b88435e1.chunk.js",
+    "static/js/2.b88435e1.chunk.js.map": "/static/js/2.b88435e1.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.b7c3cff74608d02e470b3109c11e5fe9.js": "/precache-manifest.b7c3cff74608d02e470b3109c11e5fe9.js",
+    "precache-manifest.c55085b1fabc16733fe19dbb69e3efef.js": "/precache-manifest.c55085b1fabc16733fe19dbb69e3efef.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/2.11829350.chunk.css.map": "/static/css/2.11829350.chunk.css.map",
-    "static/css/main.b38698b1.chunk.css.map": "/static/css/main.b38698b1.chunk.css.map",
-    "static/js/2.4975ef90.chunk.js.LICENSE.txt": "/static/js/2.4975ef90.chunk.js.LICENSE.txt",
-    "static/media/landing1.jpg": "/static/media/landing1.f4b91444.jpg",
-    "static/media/landing2.jpg": "/static/media/landing2.66dcca65.jpg",
-    "static/media/landing3.jpg": "/static/media/landing3.b47c9591.jpg"
+    "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.95ac2a1f.chunk.css.map": "/static/css/main.95ac2a1f.chunk.css.map",
+    "static/js/2.b88435e1.chunk.js.LICENSE.txt": "/static/js/2.b88435e1.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/static/media/Raleway-SemiBold.8a192102.ttf",
+    "static/media/Nepal.jpg": "/static/media/Nepal.73fd6d91.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e7209854.js",
-    "static/css/2.11829350.chunk.css",
-    "static/js/2.4975ef90.chunk.js",
-    "static/css/main.b38698b1.chunk.css",
-    "static/js/main.527b5bb7.chunk.js"
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.b88435e1.chunk.js",
+    "static/css/main.95ac2a1f.chunk.css",
+    "static/js/main.0ece42be.chunk.js"
   ]
 }
