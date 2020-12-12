@@ -1,27 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.95ac2a1f.chunk.css",
-    "main.js": "/static/js/main.0ece42be.chunk.js",
-    "main.js.map": "/static/js/main.0ece42be.chunk.js.map",
+    "main.css": "/static/css/main.a4b0f0e3.chunk.css",
+    "main.js": "/static/js/main.d28c0e54.chunk.js",
+    "main.js.map": "/static/js/main.d28c0e54.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e7209854.js",
     "runtime-main.js.map": "/static/js/runtime-main.e7209854.js.map",
     "static/css/2.d9ad5f5c.chunk.css": "/static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.b88435e1.chunk.js": "/static/js/2.b88435e1.chunk.js",
-    "static/js/2.b88435e1.chunk.js.map": "/static/js/2.b88435e1.chunk.js.map",
+    "static/js/2.62760e38.chunk.js": "/static/js/2.62760e38.chunk.js",
+    "static/js/2.62760e38.chunk.js.map": "/static/js/2.62760e38.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.c55085b1fabc16733fe19dbb69e3efef.js": "/precache-manifest.c55085b1fabc16733fe19dbb69e3efef.js",
+    "precache-manifest.2e32238429d2643b999df34673b57e20.js": "/precache-manifest.2e32238429d2643b999df34673b57e20.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.d9ad5f5c.chunk.css.map": "/static/css/2.d9ad5f5c.chunk.css.map",
-    "static/css/main.95ac2a1f.chunk.css.map": "/static/css/main.95ac2a1f.chunk.css.map",
-    "static/js/2.b88435e1.chunk.js.LICENSE.txt": "/static/js/2.b88435e1.chunk.js.LICENSE.txt",
+    "static/css/main.a4b0f0e3.chunk.css.map": "/static/css/main.a4b0f0e3.chunk.css.map",
+    "static/js/2.62760e38.chunk.js.LICENSE.txt": "/static/js/2.62760e38.chunk.js.LICENSE.txt",
     "static/media/style.css": "/static/media/Raleway-SemiBold.8a192102.ttf",
-    "static/media/Nepal.jpg": "/static/media/Nepal.73fd6d91.jpg"
+    "static/media/Nepal.jpg": "/static/media/Nepal.73fd6d91.jpg",
+    "static/media/facebook.svg": "/static/media/facebook.1e80416a.svg",
+    "static/media/featured1.jpg": "/static/media/featured1.9ef7b33b.jpg",
+    "static/media/instagram.svg": "/static/media/instagram.5a7198bf.svg",
+    "static/media/landing1.jpg": "/static/media/landing1.f4b91444.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.e7209854.js",
     "static/css/2.d9ad5f5c.chunk.css",
-    "static/js/2.b88435e1.chunk.js",
-    "static/css/main.95ac2a1f.chunk.css",
-    "static/js/main.0ece42be.chunk.js"
+    "static/js/2.62760e38.chunk.js",
+    "static/css/main.a4b0f0e3.chunk.css",
+    "static/js/main.d28c0e54.chunk.js"
   ]
 }
